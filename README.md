@@ -55,3 +55,5 @@
 - Install Dependencies - npm install
 - Configure the Environment - Add the necessary API keys and configurations (e.g., OpenAI API key) to the .env.local file
 - Start the Application - npm run dev
+- Navigate to the desired workflow or testing page by typing /pages in the URL
+
